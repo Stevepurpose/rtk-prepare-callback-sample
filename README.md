@@ -1,0 +1,1 @@
+This is the first of a series of Redux Toolkit projects I will be building.This is just a basic app showing posts of stories titles and their authors.I utilized the prepare callback to customize the action payload.
